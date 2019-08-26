@@ -3,3 +3,9 @@ git push -u origin master
 
 para instalar as dependencias deste projeto executar
 npm install na pasta que contem o package.json
+
+para executar o projeto utilizar
+ng serve --open
+ou 
+ng serve
+localhost:4200
