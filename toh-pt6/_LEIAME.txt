@@ -1,2 +1,5 @@
 git remote add origin git@github.com:deyg/angular-hero.git
 git push -u origin master
+
+para instalar as dependencias deste projeto executar
+npm install na pasta que contem o package.json
